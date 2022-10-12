@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="automata">
+    <file>automata.png</file>
+  </qresource>
+</RCC>

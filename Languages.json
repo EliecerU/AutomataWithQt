@@ -1,0 +1,42 @@
+
+{
+    "languages": [
+        {
+            "name": "Español",
+            "actions": [
+                {
+                    "tittleContainer" : "AUTOMATA FINITO DETERMINISTA",
+                    "label" : "Ingrese la palabra a validar",
+                    "pushButton" : "Comprobar"
+                }
+            ]
+        },{
+            "name": "English",
+            "actions": [
+                {
+                    "tittleContainer" : "DETERMINISTIC FINITE AUTOMATE",
+                    "label" : "Enter the word to validate",
+                    "pushButton" : "Check"
+                }
+            ]
+        },{
+            "name": "Deutsch",
+            "actions": [
+                {
+                    "tittleContainer" : "DETERMINISTISCHE ENDLICHE AUTOMATISIERUNG",
+                    "label" : "Geben Sie das zu bestätigende Wort ein",
+                    "pushButton" : "Prüfen"
+                }
+            ]
+        },{
+            "name": "Italiane",
+            "actions": [
+                {
+                    "tittleContainer" : "AUTOMAZIONE DETERMINISTICA FINITA",
+                    "label" : "Inserisci la parola per convalidare",
+                    "pushButton" : "Dai un'occhiata"
+                }
+            ]
+        }
+    ]
+}
